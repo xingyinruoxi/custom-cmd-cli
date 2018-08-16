@@ -1,4 +1,4 @@
-let program = require('commander');
+const program = require('commander');
 // console.log(34567,process.argv);
 
 
